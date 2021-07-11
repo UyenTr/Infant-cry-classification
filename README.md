@@ -18,7 +18,7 @@ Record of 1 sec audio of baby cry in quite room.
 
 
 
-Language and libaries used:    
+## Language and libraries used:    
 - Python
 - Librosa
 - Scikit-learn
