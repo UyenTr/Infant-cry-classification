@@ -14,7 +14,7 @@ Record of 1 sec audio of baby cry in quite room.
 ## Process:
 ![](C:\Users\Uyen Truong\OneDrive\Desktop\git_project\infant_translate)
 
-![Alt text](C:\Users\Uyen Truong\OneDrive\Desktop\git_project\infant_translate\Untitile.png?raw=true "Title")
+![Alt text](C:\Users\Uyen Truong\OneDrive\Desktop\git_project\infant_translate\Untitled.png?raw=true "Title")
 
 
 
