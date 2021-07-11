@@ -1,4 +1,4 @@
-# Infant-cry-classification with Machine learning
+# Infant-cry-classification with SVC 
 
 This project was done based on Dunstan Baby Languague theory to classify most common 5 reasons for baby to cry, which are:
 - Hungry
@@ -12,9 +12,7 @@ Collect and being mannually labeled. Only very limitted data is available.
 Record of 1 sec audio of baby cry in quite room.
 
 ## Process:
-![system schema](C:\Users\Uyen Truong\OneDrive\Desktop\git_project\infant_translate\Untitled.png)
 
-![Alt text](C:\Users\Uyen Truong\OneDrive\Desktop\git_project\infant_translate\Untitled.png?raw=true "Title")
 
 
 
