@@ -12,7 +12,7 @@ Collect and being mannually labeled. Only very limitted data is available.
 Record of 1 sec audio of baby cry in quite room.
 
 ## Process:
-![](C:\Users\Uyen Truong\OneDrive\Desktop\git_project\infant_translate)
+![alt text](Untitled.png "Title")
 
 ![Alt text](C:\Users\Uyen Truong\OneDrive\Desktop\git_project\infant_translate\Untitled.png?raw=true "Title")
 
