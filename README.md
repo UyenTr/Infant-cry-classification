@@ -1,6 +1,6 @@
 # Infant-cry-classification with SVC 
 
-This project was done based on Dunstan Baby Languague theory to classify most common 5 reasons for baby to cry, which are:
+### This project was done based on Dunstan Baby Languague theory to classify most common 5 reasons for baby to cry, which are:
 - Hungry
 - Sleepy/tired
 - Need to burp
@@ -18,8 +18,11 @@ Record of 1 sec audio of baby cry in quite room.
 
 
 
-## Language and libraries used:    
+## Language and libraries used   
 - Python
 - Librosa
 - Scikit-learn
 - Streamlit
+
+## Reference
+Dunstan Baby Language: https://www.youtube.com/watch?v=IYz6tE3XmHM
